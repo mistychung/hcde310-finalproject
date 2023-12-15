@@ -1,7 +1,8 @@
 import urllib.parse, urllib.request, urllib.error, json
 import pprint
 
-api_key = "7e3xxc6au+loQLEqfw6vpg==fRlupYA9MlQkIyEs"
+#PUT API KEY HERE
+api_key = ""
 recipe_baseurl = "https://api.api-ninjas.com/v1/recipe?query="
 nutrition_baseurl = "https://api.api-ninjas.com/v1/nutrition?query="
 
